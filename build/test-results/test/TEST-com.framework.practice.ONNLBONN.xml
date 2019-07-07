@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.framework.practice.ONNLBONN" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-07-07T18:54:08" hostname="HARISH_DASYAM" time="0.001">
+  <properties/>
+  <testcase name="testNGMethod" classname="com.framework.practice.ONNLBONN" time="0.001"/>
+  <system-out><![CDATA[Lord Balaji
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
